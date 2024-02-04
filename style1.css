@@ -1,0 +1,39 @@
+.home{
+    background-size: cover;
+    height: 100vh;
+    background-image: url("gym.jpg");
+}
+.index{
+justify-content: space-between;
+    display: flex;
+
+
+}
+.index .top a{
+    color: purple;
+}
+.index .jhope a{
+    text-decoration: none;
+    color: white;
+    margin: 0 20px;
+    
+}
+.home .v{
+    text-align: center;
+    color: white;
+}
+.home .jungkook{
+    font-family: cursive;
+
+}
+.home .suga a{
+
+    background-color: white;
+    padding: 15px ;
+    border: none;
+    border-radius: 12px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.
